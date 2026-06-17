@@ -1,36 +1,183 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎤 ORATO
 
-## Getting Started
+## AI-Powered Virtual Interview & Resume Assessment Platform
 
-First, run the development server:
+ORATO is an intelligent interview preparation platform that helps students and job seekers improve their interview performance through AI-driven resume analysis, personalized interview generation, answer evaluation and detailed feedback reporting.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+The platform simulates realistic interview experiences while providing actionable insights to improve communication, technical knowledge, and interview confidence.
+
+---
+
+# 🚀 Features
+
+## 📄 Resume Analysis
+
+Upload resumes in PDF format and receive:
+
+* Resume parsing
+* Skill extraction
+* Experience identification
+* Education analysis
+* Technology recognition
+* Candidate profile generation
+
+---
+
+## 🤖 AI Interview Generation
+
+Generate customized interview questions based on:
+
+* Resume content
+* Skills mentioned
+* Experience level
+* Job role
+* Technical stack
+
+Supported categories:
+
+* Technical Interviews
+* HR Interviews
+* Behavioral Interviews
+* Project-Based Interviews
+
+---
+
+## 🎙️ Voice-Based Interview Experience
+
+* Speech interaction
+* Audio response collection
+* Conversational interview flow
+* Realistic interview simulation
+
+---
+
+## 📝 Answer Evaluation
+
+The AI evaluates responses using:
+
+* Relevance
+* Technical accuracy
+* Communication quality
+* Confidence indicators
+* Completeness
+
+---
+
+## 📊 Performance Reports
+
+Detailed analytics including:
+
+* Overall score
+* Skill assessment
+* Strength identification
+* Weakness analysis
+* Improvement suggestions
+* Interview readiness score
+
+---
+
+## 🔐 Authentication System
+
+* User registration
+* Secure login
+* Password recovery
+* Session management
+* Firebase authentication
+
+---
+
+## 📈 Dashboard
+
+Users can:
+
+* Track interview history
+* Review previous reports
+* Monitor improvement
+* Access generated feedback
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+* Next.js
+* React
+* TypeScript
+* Framer Motion
+* Recharts
+
+## Backend & Services
+
+* Firebase
+* Gemini AI
+* PDF Parsing
+
+## UI/UX
+
+* Tailwind CSS
+* Responsive Design
+* Modern Dashboard Components
+
+---
+
+# 📂 Project Structure
+
+```text
+ORATO
+│
+├── Authentication
+│
+├── Resume Analysis
+│
+├── AI Interview Engine
+│
+├── Answer Evaluation
+│
+├── Reporting Dashboard
+│
+├── Speech Features
+│
+└── User Analytics
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 🎯 Key Benefits
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* Personalized interview preparation
+* Resume-based questioning
+* Realistic interview simulation
+* Automated performance analysis
+* Continuous improvement tracking
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+# 🌟 Use Cases
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Students preparing for placements
+* Internship applicants
+* Fresh graduates
+* Job seekers
+* Career development programs
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 🔮 Future Enhancements
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Live video interview analysis
+* Emotion detection
+* AI interviewer avatars
+* Company-specific interview modes
+* Mock coding interviews
+* ATS compatibility scoring
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 👨‍💻 Developer
+
+Joel Joy
+
+---
+
+
